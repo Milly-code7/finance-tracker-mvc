@@ -30,5 +30,5 @@ This project allows users to track daily expenses by category and amount, with a
 2. (Optional) Install EF Core CLI tools  
 3. Run `dotnet ef database update`  
 4. Run `dotnet run`
-5. Open browser to `https://localhost:5001`
+5. Open browser to `https://localhost:5117`
 
