@@ -1,0 +1,32 @@
+# Build output directories
+bin/
+obj/
+
+# User-specific configuration files
+*.user
+*.suo
+
+# Generated database files (optional)
+*.db
+*.db-shm
+*.db-wal
+
+# VS Code settings and cache
+.vscode/
+
+# Temporary files
+*.log
+*.cache
+*.tmp
+
+# ASP.NET Core static asset build outputs
+*.staticwebassets.*
+*.refmap.json
+*.g.props
+*.g.targets
+
+# JetBrains Rider project folder
+.idea/
+
+# macOS system file
+.DS_Store
